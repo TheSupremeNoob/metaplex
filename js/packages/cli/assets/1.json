@@ -1,0 +1,42 @@
+{
+    "name": "Wormhole Project Genesis Collection TEST #002",
+    "symbol": "",
+    "description": "Wormhole Project Genesis Collection TEST #002",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "Wormhole Project Genesis TEST Collection",
+       "family": "Wormhole Project Genesis TEST Collection" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "F32qCY5rEkXP4QDQz7c4aB58YNytDHxvTs3zrvEdtetD",
+          "share": 100
+        }
+      ]
+    }
+  }
